@@ -13,7 +13,7 @@ public class id extends JFrame {
         l.setBounds(10, 20, 200, 200);
         c.add(l);
 
-        JLabel l1 = new JLabel("");
+        JLabel l1 = new JLabel("null");
         l1.setBounds(10, 170, 200, 40);
         c.add(l1);
 
@@ -21,7 +21,7 @@ public class id extends JFrame {
         l2.setBounds(10, 200, 200, 40);
         c.add(l2);
 
-        String[] branches = { "CSE", "ECE", "ENTC", "AIDS", "MECH", "AR" };
+        String[] branches = {"CSE", "ECE", "ENTC", "AIDS", "MECH", "AR"};
         JComboBox<String> branchComboBox = new JComboBox<>(branches);
         branchComboBox.setBounds(80, 210, 100, 20);
         c.add(branchComboBox);
@@ -49,7 +49,7 @@ public class id extends JFrame {
         submitButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String name = "Sukhankar Sunil Hanaminahal";
+                String name = "null";
                 String branch = (String) branchComboBox.getSelectedItem();
                 String dob = dobTextField.getText();
                 String address = addressTextArea.getText();
@@ -62,7 +62,7 @@ public class id extends JFrame {
 
     public static void main(String[] args) {
         id d = new id();
-        d.setTitle("Sukhankar");
+        d.setTitle("hii");
         d.setVisible(true);
         d.setLayout(null);
         d.setSize(600, 500);
