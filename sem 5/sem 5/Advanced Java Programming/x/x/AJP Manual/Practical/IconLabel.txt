@@ -1,8 +1,8 @@
 import javax.swing.*;
 
-public class JButtonDemo extends JFrame
+public class JButtonid extends JFrame
 {
-	JButtonDemo()
+	JButtonid()
 	{
 		ImageIcon i1 = new ImageIcon("flower1.jpg");
 		JButton b1 = new JButton("Save",i1);
@@ -21,6 +21,6 @@ public class JButtonDemo extends JFrame
 	}
 	public static void main(String[] args)
 	{
-		JButtonDemo obj = new JButtonDemo();
+		JButtonid obj = new JButtonid();
 	}
 }
