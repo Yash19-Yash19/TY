@@ -21,7 +21,7 @@ public class id extends JFrame {
         l2.setBounds(10, 200, 200, 40);
         c.add(l2);
 
-        String[] branches = {"CSE", "ECE", "ENTC", "AIDS", "MECH", "AR"};
+        String[] branches = { "CSE", "ECE", "ENTC", "AIDS", "MECH", "AR" };
         JComboBox<String> branchComboBox = new JComboBox<>(branches);
         branchComboBox.setBounds(80, 210, 100, 20);
         c.add(branchComboBox);

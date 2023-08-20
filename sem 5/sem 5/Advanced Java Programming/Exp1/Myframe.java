@@ -85,7 +85,7 @@ class Myframe extends Frame {
 
   public static void main(String args[]) {
 
-    Myframe m = new Myframe();
+    new Myframe();
 }
 
 }

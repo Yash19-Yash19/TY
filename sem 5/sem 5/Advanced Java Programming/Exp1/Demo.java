@@ -4,6 +4,9 @@ class id extends Frame {
 
     id() {
         setLayout(null);
+        setSize(500, 500);
+        setVisible(true);
+        setTitle("Exp");
 
         MenuBar mb = new MenuBar();
 
@@ -43,15 +46,13 @@ class id extends Frame {
 
         setMenuBar(mb);
 
-        setSize(500, 500);
-        setVisible(true);
-        setTitle("Exp");
+       
 
     }
 
     public static void main(String args[]) {
 
-        id d = new id();
+        new id();
 
     }
 }
