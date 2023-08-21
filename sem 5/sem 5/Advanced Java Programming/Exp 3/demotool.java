@@ -9,7 +9,7 @@ class demotool extends JFrame {
         jf.setVisible(true);
         jf.setTitle("tooltip");
         JPasswordField jp = new JPasswordField();
-        jp.setBounds(10, 20, 10, 40);
+        jp.setBounds(10, 20, 20, 40);
         jp.setToolTipText("password");
         jf.add(jp);
 
@@ -17,6 +17,6 @@ class demotool extends JFrame {
 
     public static void main(String[] args) {
         new demotool();
-    }
+    }        
 
 }
