@@ -1,9 +1,9 @@
 import java.awt.*;
 import javax.swing.*;
 
-class Demo extends JFrame {
+class demotree extends JFrame {
 
-    Demo() {
+    demotree() {
         Container c = getContentPane();
 
         ImageIcon imgic = new ImageIcon("C:\\app_logo.png");
@@ -30,7 +30,7 @@ class Demo extends JFrame {
     }
 
     public static void main(String[] args) {
-        Demo d3 = new Demo();
+        demotree d3 = new demotree();
         d3.setSize(500, 500);
         d3.setLayout(null);
         d3.setVisible(true);
