@@ -28,6 +28,6 @@ public class mouse3 extends MouseAdapter {
     }
 
     public static void main(String[] args) {
-        mouse3 d = new mouse3();
+        new mouse3();
     }
 }

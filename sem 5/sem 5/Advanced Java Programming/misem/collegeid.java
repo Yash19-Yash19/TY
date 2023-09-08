@@ -1,6 +1,7 @@
 import java.awt.*;
 import javax.swing.*;
 
+
 class collegeid extends JFrame {
     collegeid() {
         Container ct = getContentPane();
