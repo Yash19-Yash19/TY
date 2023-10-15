@@ -1,0 +1,301 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "lc",
+            "request": "launch",
+            "mainClass": "lc",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "ls",
+            "request": "launch",
+            "mainClass": "ls",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "lserver",
+            "request": "launch",
+            "mainClass": "lserver",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "lclient",
+            "request": "launch",
+            "mainClass": "lclient",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "lrg",
+            "request": "launch",
+            "mainClass": "lrg",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "clientfact",
+            "request": "launch",
+            "mainClass": "clientfact",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "serverfact",
+            "request": "launch",
+            "mainClass": "serverfact",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "MyClient1",
+            "request": "launch",
+            "mainClass": "MyClient1",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "MyServer1",
+            "request": "launch",
+            "mainClass": "MyServer1",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Imagic",
+            "request": "launch",
+            "mainClass": "Imagic",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "JframeEx",
+            "request": "launch",
+            "mainClass": "JframeEx",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "Lyt",
+            "request": "launch",
+            "mainClass": "Lyt",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "Myframe",
+            "request": "launch",
+            "mainClass": "Myframe",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "Txtfield",
+            "request": "launch",
+            "mainClass": "Txtfield",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "app",
+            "request": "launch",
+            "mainClass": "app",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "bdrlyt",
+            "request": "launch",
+            "mainClass": "bdrlyt",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "c",
+            "request": "launch",
+            "mainClass": "c",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "client",
+            "request": "launch",
+            "mainClass": "client",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "collegeid",
+            "request": "launch",
+            "mainClass": "collegeid",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "demon10",
+            "request": "launch",
+            "mainClass": "demon10",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "demon2",
+            "request": "launch",
+            "mainClass": "demon2",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "demon4",
+            "request": "launch",
+            "mainClass": "demon4",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "demotable",
+            "request": "launch",
+            "mainClass": "demotable",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "demotool",
+            "request": "launch",
+            "mainClass": "demotool",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "demotree",
+            "request": "launch",
+            "mainClass": "demotree",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "dtpktsn",
+            "request": "launch",
+            "mainClass": "dtpktsn",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "dtsktrcvr",
+            "request": "launch",
+            "mainClass": "dtsktrcvr",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "gl",
+            "request": "launch",
+            "mainClass": "gl",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "gridbag",
+            "request": "launch",
+            "mainClass": "gridbag",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "id",
+            "request": "launch",
+            "mainClass": "id",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "ip_1",
+            "request": "launch",
+            "mainClass": "ip_1",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "ip_2",
+            "request": "launch",
+            "mainClass": "ip_2",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "ip_3",
+            "request": "launch",
+            "mainClass": "ip_3",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "ip_4",
+            "request": "launch",
+            "mainClass": "ip_4",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "mouse",
+            "request": "launch",
+            "mainClass": "mouse",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "mouse2",
+            "request": "launch",
+            "mainClass": "mouse2",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "mouse3",
+            "request": "launch",
+            "mainClass": "mouse3",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "s",
+            "request": "launch",
+            "mainClass": "s",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "tab",
+            "request": "launch",
+            "mainClass": "tab",
+            "projectName": "TY_fabe64a1"
+        },
+        {
+            "type": "java",
+            "name": "testborder",
+            "request": "launch",
+            "mainClass": "testborder",
+            "projectName": "TY_fabe64a1"
+        }
+    ]
+}
